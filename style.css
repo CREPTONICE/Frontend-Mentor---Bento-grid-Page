@@ -187,8 +187,10 @@ body {
     background-color: var(--Purple--100);
     text-align: left;
     padding: 25px;
+
     width: 230px;
-    height: 465px;
+    height: 508px;
+
     position: relative;
     overflow: hidden;
     left: -13%;
